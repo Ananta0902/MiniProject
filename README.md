@@ -65,8 +65,6 @@ Heart Disease Prediction
 ---
 
 ## 📊 Results
-
-| Model | Performance |
 | **Random Forest** | **Best Accuracy: 92.86%** |
 
 The Random Forest classifier achieved the highest prediction accuracy and was selected as the final model.
